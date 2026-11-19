@@ -8,8 +8,8 @@ import (
 	"time"
 )
 
-func FindLatestEpisodes() {
-	baseUrl := "https://primewire.mov/filter?type=tv&sort=Latest%20Episode"
+func FindLatestEpisodes(tmdb_id int64, s, e int) {
+	baseUrl := fmt.Sprintf("https://primesrc.me/embed/tv?tmdb=%d&season=%d&episode=%d", tmdb_id, s, e)
 
 	ctn, err := GetContent(baseUrl)
 	if err != nil {

@@ -2,6 +2,7 @@ package db
 
 import (
 	"context"
+	"log"
 
 	"github.com/ffandroid/autoprime/utils"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -16,10 +17,10 @@ type BShow struct {
 	Year   string `json:"year" bson:"year"`
 }
 
-var BstsrsDB2025 *mongo.Database
+var APrimeDB *mongo.Database
 
 func init() {
-	mongoDBHost := utils.GetEnv("MONGO_DB_HOST1", "mongodb+srv://mongo.zplay.online/?replicaSet=rs0&tls=false&readPreference=nearest&compressors=zstd&localThresholdMS=1")
+	mongoDBHost := utils.GetEnv("MONGO_DB_APRIME", "mongodb://100.125.175.51:27025")
 
 	clientOptions := options.
 		Client().
@@ -28,8 +29,8 @@ func init() {
 		ApplyURI(mongoDBHost)
 	client, err := mongo.Connect(context.TODO(), clientOptions)
 	if err != nil {
-		logx.Println("error", err)
+		log.Println("error", err)
 	}
-	BstsrsDB2025 = client.Database("bstsrsDB2025")
+	APrimeDB = client.Database("aPrimeDB")
 
 }
