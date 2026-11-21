@@ -1,0 +1,104 @@
+{
+  "info": {
+    "status": "Running",
+    "type": "tv",
+    "description": "<p>The dark side of one of the most beautiful places on earth. Uncovering secrets and lies from the past.</p>",
+    "title": "Shetland",
+    "episode": {
+      "description": "<p>With the identity of the body confirmed, Calder digs into the theft from the surgery. But everything is put on hold when the team realises Tosh is missing.</p>",
+      "title": "Episode 2",
+      "episode": 2,
+      "season": 11,
+      "release_date": "2026-11-19"
+    },
+    "release_date": "2013-03-10",
+    "tvmaze_id": 1852,
+    "imdb_id": "tt2396135",
+    "tmdb_id": "tt2396135",
+    "tmdb_backdrop": "https://image.tmdb.org/t/p/w1280/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+    "tmdb_image": "/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg"
+  },
+  "servers": [
+    {
+      "name": "Filemoon",
+      "file_name": null,
+      "file_size": null,
+      "key": "Q0df_",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Filemoon",
+      "file_name": null,
+      "file_size": null,
+      "key": "m5E8p",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Voe",
+      "file_name": null,
+      "file_size": null,
+      "key": "BaIcZ",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Voe",
+      "file_name": null,
+      "file_size": null,
+      "key": "iM29f",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Luluvdoo",
+      "file_name": null,
+      "file_size": null,
+      "key": "_8WQP",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Dood",
+      "file_name": null,
+      "file_size": null,
+      "key": "pDQoC",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Mixdrop",
+      "file_name": null,
+      "file_size": null,
+      "key": "yMK5o",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Mixdrop",
+      "file_name": null,
+      "file_size": null,
+      "key": "CidUH",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Savefiles",
+      "file_name": null,
+      "file_size": null,
+      "key": "KhVlf",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    }
+  ]
+}

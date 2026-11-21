@@ -1,0 +1,203 @@
+{
+  "info": {
+    "status": "Running",
+    "type": "tv",
+    "description": "<p><b>Southern Charm</b> goes behind the walls of Charleston, South Carolina's most aristocratic families to reveal a world of exclusivity, money and scandal that goes back generations. The fast-paced, drama-filled docu-series follows six Charleston singles — Craig Conover, Cameran Eubanks, Jenna King, Thomas Ravenel, Shepard \"Shep\" Rose, and Whitney Sudler Smith — struggling with the constraints of this tight-knit, posh society. The cast, some descendants of Vice Presidents and four-term Senators, and others from \"new money,\" is comprised of Southern bachelors who suffer from \"Peter Pan Syndrome\" by refusing to settle down; and the women in their lives who challenge them to grow up. Viewers will see them launch political careers, build businesses, break hearts, and chase true love -- all while struggling to preserve their family names. Because in Charleston, you're only as good as your last garden party and one social screw-up can taint generations to come.</p>",
+    "title": "Southern Charm",
+    "episode": {
+      "description": "<p>After rushing to Salley's defense at the garden party, Madison hosts a gathering where Venita reveals a secret. Allie starts to second guess her upcoming date with Whitner after speaking to the girls. Craig and Whitner attempt to make amends.</p>",
+      "title": "Battle of Whits",
+      "episode": 2,
+      "season": 12,
+      "release_date": "2026-11-19"
+    },
+    "release_date": "2014-03-02",
+    "tvmaze_id": 3248,
+    "imdb_id": "tt2815522",
+    "tmdb_id": "tt2815522",
+    "tmdb_backdrop": "https://image.tmdb.org/t/p/w1280/m0uNha1CSBDxJmqvcNWm7fMgppe.jpg",
+    "tmdb_image": "/8HD1g48xyLW96x8LJudhQ8DOBpL.jpg"
+  },
+  "servers": [
+    {
+      "name": "Voe",
+      "file_name": null,
+      "file_size": null,
+      "key": "dRezO",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Voe",
+      "file_name": null,
+      "file_size": null,
+      "key": "ci6sR",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Voe",
+      "file_name": null,
+      "file_size": null,
+      "key": "R_adK",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Luluvdoo",
+      "file_name": null,
+      "file_size": null,
+      "key": "2vorm",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Dood",
+      "file_name": null,
+      "file_size": null,
+      "key": "sksJA",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Dood",
+      "file_name": null,
+      "file_size": null,
+      "key": "LFknx",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Dood",
+      "file_name": null,
+      "file_size": null,
+      "key": "UzYKs",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Streamtape",
+      "file_name": null,
+      "file_size": null,
+      "key": "9cI7u",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Mixdrop",
+      "file_name": null,
+      "file_size": null,
+      "key": "IDWx0",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Mixdrop",
+      "file_name": null,
+      "file_size": null,
+      "key": "WSJ39",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Mixdrop",
+      "file_name": null,
+      "file_size": null,
+      "key": "lXQ2J",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Vidmoly",
+      "file_name": null,
+      "file_size": null,
+      "key": "rXRF_",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Vidmoly",
+      "file_name": null,
+      "file_size": null,
+      "key": "IvUSN",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Streamplay",
+      "file_name": null,
+      "file_size": null,
+      "key": "bwU-i",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Vidara",
+      "file_name": null,
+      "file_size": null,
+      "key": "eFxKg",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Savefiles",
+      "file_name": null,
+      "file_size": null,
+      "key": "VKA2j",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Savefiles",
+      "file_name": null,
+      "file_size": null,
+      "key": "G7pw7",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "VidsST",
+      "file_name": null,
+      "file_size": null,
+      "key": "17lOu",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Filemoon",
+      "file_name": null,
+      "file_size": null,
+      "key": "N8xcF",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    },
+    {
+      "name": "Filemoon",
+      "file_name": null,
+      "file_size": null,
+      "key": "c9Xxo",
+      "quality": null,
+      "audio_language": "en",
+      "audio_type": "orig"
+    }
+  ]
+}
